@@ -99,3 +99,31 @@ font-family:'Roboto', sans-serif;
 .menu__item:hover{
  opacity: 0.5;
 }
+
+.main-content__title{
+  width: 567px;
+  padding-top: 100px;
+  margin: 0 0 40px 0;
+  font-family: 'PT Serif', serif;
+  font-weight: bold;
+  font-size: 50px;
+
+}
+
+.main-content__subtitle{
+  margin: 0 0 40px 0;
+}
+
+
+.main-section{
+  background: url('main img/Group.svg');
+  background-repeat: no-repeat;
+  padding-top: 100px;
+  padding-right: 63%;
+  background-position: center right;
+
+}
+
+.main__title-text_higlight{
+  background: #ECF3FF
+}
