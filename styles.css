@@ -14,16 +14,10 @@ font-family:'Roboto', sans-serif;
 .header{
   margin:auto;
   padding: 40px 0;
-}
-
-.logo, .menu{
-  display: inline-block;
-}
-
-.header{
   display: flex;
   justify-content: space-between;
-  }
+}
+
 
  .logo{
 
@@ -163,8 +157,6 @@ font-family:'Roboto', sans-serif;
   height: 255px;
   width: 567px;
   padding-top: 10px;
-  margin-right: 0;
-  margin-left: 189px;
   margin-bottom: 29px;
   font-family: 'PT Serif', serif;
   font-weight: bold;
@@ -177,7 +169,7 @@ font-family:'Roboto', sans-serif;
   height: 52px;
   padding-top: 10px;
   font-family: 'Roboto', sans-serif;
-  margin: 29px 56px 59px 186px;
+  margin: 29px 56px 59px 0px;
   font-size: 22px;
   line-height: 26px;
   height: 52px;
@@ -192,7 +184,7 @@ font-family:'Roboto', sans-serif;
   padding-top: 100px;
   padding-right: 63%;
   background-position: center right;
-  margin-right: 219px;
+  margin-right: 28px;
 
 }
 
@@ -207,13 +199,10 @@ margin-right: 100px;
 }
 
 .main__button{
-  margin-left: 190px;
+  margin-left: 0px;
   weight: 500px;
   size:18px;
-  padding-right: 60px;
-  padding-left: 20px;
-  padding-top:17px;
-  padding-bottom: 17px;
+  padding:  17px 38px 0 5px;
   width: 250px;
   height: 29px;
   background: #0056EC;
