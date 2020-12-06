@@ -281,15 +281,25 @@ margin-right: 100px;
           font: bold 311%/66px 'PT Serif', serif;
           margin-right: 0;
           margin: 0px 0px 0px 82px;
-          padding-top: 0px; }
+          padding-top: 0px;
+          width: 434px; }
 
         .main__subtitle{
           font: 18px/21px 'Roboto', sans-serif;
-          margin: 29px 56px 59px 81px;}
+          margin: 14px 56px 55px 81px;
+          width: 367px; }
+
 
         .main__button{
-          margin-left: 79px;
+          margin-left: 82px;
+          padding: 16px 28px 12px 17px;
+          font: 14px/16px 'Roboto', arial; }
+
+        .image-content__image{
+        
         }
+
+
 
 
 
@@ -443,4 +453,4 @@ margin-right: 100px;
     background-color:#fafafa;
     margin-top: 3px;
   }
-}
+}*\
