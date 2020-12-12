@@ -421,7 +421,7 @@ font-family:'Roboto', sans-serif;}
 
 
 
-@media(max-width:760px){
+@media(max-width:375px){
 
   .menu{
     display: none;
